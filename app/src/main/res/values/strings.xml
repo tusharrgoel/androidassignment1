@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_text">Enter your Text</string>
+    <string name="updated_text_appears_here">Updated Text Appears here</string>
+    <string name="updatetext">Update Text</string>
+</resources>
